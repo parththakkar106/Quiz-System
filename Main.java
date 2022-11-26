@@ -1,7 +1,6 @@
 /**
  * Made by:
  * Parth Thakkar (2020A7PS0088P)
- * Yatin Singla  (2020A7PS0020P)
  */
 import java.lang.reflect.Array;
 import java.util.*;
